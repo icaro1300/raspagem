@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raspagem", "Raspagem\Raspagem.csproj", "{8412FD81-29C7-4779-BDC7-D2F5C3DEEB0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8412FD81-29C7-4779-BDC7-D2F5C3DEEB0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8412FD81-29C7-4779-BDC7-D2F5C3DEEB0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8412FD81-29C7-4779-BDC7-D2F5C3DEEB0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8412FD81-29C7-4779-BDC7-D2F5C3DEEB0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DEBEA2C-9944-4970-B27E-7736AEACB781}
+	EndGlobalSection
+EndGlobal
